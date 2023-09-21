@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin Fabrgas
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Software Developer
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me kevinfabregas0@gmail.com
 
 <!---
